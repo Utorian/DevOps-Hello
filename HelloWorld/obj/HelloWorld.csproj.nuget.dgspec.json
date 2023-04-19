@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\kloda\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

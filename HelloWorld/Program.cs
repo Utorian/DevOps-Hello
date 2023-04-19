@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Dice d = new Dice(new RandomDice());
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(d.Roll());
+            }
+            Console.ReadLine();
         }
     }
 }
