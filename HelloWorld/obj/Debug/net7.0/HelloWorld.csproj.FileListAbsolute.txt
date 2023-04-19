@@ -1,0 +1,15 @@
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\Development\Arbejde\EADANIA\Test\DevOps\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
