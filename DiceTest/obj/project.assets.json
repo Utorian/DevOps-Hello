@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net6.0": {
       "Castle.Core/5.1.1": {
         "type": "package",
         "dependencies": {
@@ -659,7 +659,7 @@
       },
       "HelloWorld/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/HelloWorld.dll": {}
         },
@@ -2441,7 +2441,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net6.0": [
       "HelloWorld >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
@@ -2474,7 +2474,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -2482,8 +2482,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj": {
               "projectPath": "D:\\Development\\Arbejde\\EADANIA\\Test\\DevOps\\HelloWorld\\DevOps-Hello\\HelloWorld\\HelloWorld.csproj"
@@ -2498,8 +2498,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
